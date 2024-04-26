@@ -31,14 +31,16 @@
 	"name" : "X",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/x.jpeg",
 	"type" : "link",
-	"url" : "https://twitter.com"
+	"url" : "https://twitter.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661d3c2e31984b254875b7ac"),
 	"name" : "Linkedin",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/linkedin.png",
 	"type" : "link",
-	"url" : "https://www.linkedin.com/in"
+	"url" : "https://www.linkedin.com/in",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3dd"),
@@ -52,74 +54,87 @@
 	"_id" : ObjectId("661f52d46bc83b880668b3de"),
 	"name" : "TikTok",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/tiktok.webp",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3df"),
 	"name" : "YouTube",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/youtube.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e0"),
 	"name" : "Fiverr",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/fiverr.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e1"),
 	"name" : "Skype",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/skype.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e2"),
 	"name" : "Upwork",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/upwork.jpeg",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e3"),
 	"name" : "Yahoo",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/yahoo.png",
-	"type" : "mail"
+	"type" : "mail",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e4"),
 	"name" : "Paypal",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/paypal.png",
-	"type" : "mail"
+	"type" : "mail",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e5"),
 	"name" : "Mpesa",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/mpesa.webp",
-	"type" : "number"
+	"type" : "number",
+	"buttons":["copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e7"),
 	"name" : "Equity",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/equity.png",
-	"type" : "number"
+	"type" : "number",
+	"buttons":["copy"]
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c17"),
 	"name" : "Pinterest",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/pinterest.jpg",
 	"type" : "link",
-	"url" : "https://www.pinterest.com"
+	"url" : "https://www.pinterest.com",
+	"buttons":["view","copy"]
+
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c1a"),
 	"name" : "Discord",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/discord.png",
 	"type" : "link",
-	"url" : "https://discord.com"
+	"url" : "https://discord.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c1d"),
 	"name" : "Github",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/github.webp",
 	"type" : "link",
-	"url" : "https://github.com"
+	"url" : "https://github.com",
+	"buttons":["view","copy"]
 }
