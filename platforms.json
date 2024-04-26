@@ -104,7 +104,7 @@
 	"name" : "Mpesa",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/mpesa.webp",
 	"type" : "number",
-	"buttons":["copy"]
+	"buttons":["copy","call"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e7"),
