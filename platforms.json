@@ -62,7 +62,7 @@
 	"name" : "YouTube",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/youtube.png",
 	"type" : "link",
-	"buttons":["view","copy","call"]
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e0"),
