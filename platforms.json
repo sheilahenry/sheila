@@ -31,14 +31,16 @@
 	"name" : "X",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/x.jpeg",
 	"type" : "link",
-	"url" : "https://twitter.com"
+	"url" : "https://twitter.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661d3c2e31984b254875b7ac"),
 	"name" : "Linkedin",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/linkedin.png",
 	"type" : "link",
-	"url" : "https://www.linkedin.com/in"
+	"url" : "https://www.linkedin.com/in",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3dd"),
@@ -52,230 +54,266 @@
 	"_id" : ObjectId("661f52d46bc83b880668b3de"),
 	"name" : "TikTok",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/tiktok.webp",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3df"),
 	"name" : "YouTube",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/youtube.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e0"),
 	"name" : "Fiverr",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/fiverr.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e1"),
 	"name" : "Skype",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/skype.png",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e2"),
 	"name" : "Upwork",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/upwork.jpeg",
-	"type" : "link"
+	"type" : "link",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e3"),
 	"name" : "Yahoo",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/yahoo.png",
-	"type" : "mail"
+	"type" : "mail",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e4"),
 	"name" : "Paypal",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/paypal.png",
-	"type" : "mail"
+	"type" : "mail",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e5"),
 	"name" : "Mpesa",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/mpesa.webp",
-	"type" : "number"
+	"type" : "number",
+	"buttons":["copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3e7"),
 	"name" : "Equity",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/equity.png",
-	"type" : "number"
+	"type" : "number",
+	"buttons":["copy"]
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c17"),
 	"name" : "Pinterest",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/pinterest.jpg",
 	"type" : "link",
-	"url" : "https://www.pinterest.com"
+	"url" : "https://www.pinterest.com",
+	"buttons":["view","copy"]
+
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c1a"),
 	"name" : "Discord",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/discord.png",
 	"type" : "link",
-	"url" : "https://discord.com"
+	"url" : "https://discord.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("6625f8f92fa4ba20e0be7c1d"),
 	"name" : "Github",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/github.webp",
 	"type" : "link",
-	"url" : "https://github.com"
+	"url" : "https://github.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99692c"),
 	"name" : "FauluBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/faulu.png",
 	"type" : "link",
-	"url" : "https://faulubank.com"
+	"url" : "https://faulubank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99692b"),
 	"name" : "KingdomBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/kingdom-bank.png",
 	"type" : "link",
-	"url" : "https://kingdombank.com"
+	"url" : "https://kingdombank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99692a"),
 	"name" : "SidianBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/sidianbank-vector-logo.png",
 	"type" : "link",
-	"url" : "https://sidianbank.com"
+	"url" : "https://sidianbank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996929"),
 	"name" : "ConsolidatedBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/consolidated.jpg",
 	"type" : "link",
-	"url" : "https://consolidatedbank.com"
+	"url" : "https://consolidatedbank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996928"),
 	"name" : "KWFT",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/KWFT1.webp",
 	"type" : "link",
-	"url" : "https://kwft.com"
+	"url" : "https://kwft.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996927"),
 	"name" : "FamilyBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/familybank.png",
 	"type" : "link",
-	"url" : "https://familybank.com"
+	"url" : "https://familybank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996926"),
 	"name" : "Barklays",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/barclays.jpg",
 	"type" : "link",
-	"url" : "https://barklays.com"
+	"url" : "https://barklays.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996925"),
 	"name" : "EcoBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/EcoBank.png",
 	"type" : "link",
-	"url" : "https://ecobank.com"
+	"url" : "https://ecobank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996924"),
 	"name" : "MicroFinance",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/Micro%20finance%20Bank.jpg",
 	"type" : "link",
-	"url" : "https://microfinance.com"
+	"url" : "https://microfinance.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996923"),
 	"name" : "HFC",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/HF-GROUP-LOGO.png",
 	"type" : "link",
-	"url" : "https://hfc.com"
+	"url" : "https://hfc.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996922"),
 	"name" : "DTB",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/diamond-trust-bank-kenya.jpg",
 	"type" : "link",
-	"url" : "https://dtb.com"
+	"url" : "https://dtb.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996921"),
 	"name" : "Bank of Africa",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/Bank%20of%20Kenya.jpg",
 	"type" : "link",
-	"url" : "https://bankofafrica.com"
+	"url" : "https://bankofafrica.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996920"),
 	"name" : "I&MBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/I%20&M%20bank.jpg",
 	"type" : "link",
-	"url" : "https://i&mbank.com"
+	"url" : "https://i&mbank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691f"),
 	"name" : "Stanbic Bank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/Stanbic-Bank-Kenya-TENDER-2021.webp",
 	"type" : "link",
-	"url" : "https://stanbicbank.com"
+	"url" : "https://stanbicbank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691e"),
 	"name" : "ChaseBank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/chase-bank-kenya.png",
 	"type" : "link",
-	"url" : "https://chasebank.com"
+	"url" : "https://chasebank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691d"),
 	"name" : "Central Bank",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/CBK.png",
 	"type" : "link",
-	"url" : "https://centralbank.com"
+	"url" : "https://centralbank.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691c"),
 	"name" : "ABSA",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/absa_logo1.webp",
 	"type" : "link",
-	"url" : "https://absa.com"
+	"url" : "https://absa.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691b"),
 	"name" : "Co-operative",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/co-operative.jpeg",
 	"type" : "link",
-	"url" : "https://co-operative.com"
+	"url" : "https://co-operative.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f99691a"),
 	"name" : "KCB",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/KCB.png",
 	"type" : "link",
-	"url" : "https://kcb.com"
+	"url" : "https://kcb.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996919"),
 	"name" : "Snapchat",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/snapchat.png",
 	"type" : "link",
-	"url" : "https://snapchat.com"
+	"url" : "https://snapchat.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996918"),
 	"name" : "StandardChartered",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/standard.webp",
 	"type" : "link",
-	"url" : "https://standardchartered.com"
+	"url" : "https://standardchartered.com",
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("662b59c20b6690816f996917"),
 	"name" : "NCBA",
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/ncba.png",
 	"type" : "link",
-	"url" : "https://ncba.com"
+	"url" : "https://ncba.com",
+	"buttons":["view","copy"]
+
 }
 
 
