@@ -40,7 +40,7 @@
 	"icon" : "https://spotcard.nyc3.digitaloceanspaces.com/platforms/linkedin.png",
 	"type" : "link",
 	"url" : "https://www.linkedin.com/in",
-	"buttons":["view","copy","share"]
+	"buttons":["view","copy"]
 }
 {
 	"_id" : ObjectId("661f52d46bc83b880668b3dd"),
